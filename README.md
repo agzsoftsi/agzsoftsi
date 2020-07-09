@@ -9,7 +9,7 @@
 
 ## FULLSTACK DEVELOPER
 
-![](Top.png/)
+![](/Top.png)
 
 
 <!--
