@@ -1,4 +1,15 @@
-﻿![](Top.png)
+﻿# WELCOME to My Repository
+
+> - Name: “Carlos Andres García Morales”,
+> - Job: [“Software Engineer”,”Cisco professional”],
+> - SoftSkills: [”Creativity”, “Adaptability”,“Collaboration”,”Time management”,”Persuasion”],
+> - HardSkills: [”Problem-solving”, “Multitasking”, “Attention to detail”, “Software designing”, “Software development”],
+> - Hobbies: [”Coding”, “Videogames”, “Music”,“Climb mountains”,“Grow plants”,”Travel”,”Smile to life”,”Anything crazy”]
+
+## FULLSTACK DEVELOPER
+
+![](Top.png)
+
 
 <!--
 **agzsoftsi/agzsoftsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
