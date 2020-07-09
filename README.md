@@ -9,9 +9,6 @@
 
 ## FULLSTACK DEVELOPER
 
-![](ic1.png)
-
-
 <!--
 ![](/Top.png)
 **agzsoftsi/agzsoftsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
