@@ -1,4 +1,4 @@
-﻿![Imgur](https://i.imgur.com/IkeqeHo.gifv)
+﻿![Imgur](https://i.imgur.com/IkeqeHo.gif)
 <!-- 
 
 ![Imgur](https://i.imgur.com/LXh1hEy.png)
