@@ -1,4 +1,5 @@
-﻿# WELCOME to My Repository
+﻿[![My picture](Top.png)]
+# WELCOME to My Repository
 
 > - **Name**: “Carlos Andres García Morales”,
 > - **Job**: [“Software Engineer”,”Cisco professional”],
@@ -10,7 +11,7 @@
 ## FULLSTACK DEVELOPER
 
 <!--
-![](/Top.png)
+
 **agzsoftsi/agzsoftsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
