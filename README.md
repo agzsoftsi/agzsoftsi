@@ -1,4 +1,4 @@
-﻿[![My picture](Top.png)]
+﻿[Imgur](https://i.imgur.com/LXh1hEy.png)
 # WELCOME to My Repository
 
 > - **Name**: “Carlos Andres García Morales”,
