@@ -1,4 +1,4 @@
-﻿![Imgur](https://i.imgur.com/BDsza9y.gif)
+﻿![Imgur](https://i.imgur.com/r6WH8SN.gif)
 
 <!-- 
 ![Imgur](https://i.imgur.com/LXh1hEy.png)
@@ -11,7 +11,8 @@
 > - **Hobbies**: [”Coding”, “Videogames”, “Music”,“Climb mountains”,“Grow plants”,”Travel”,”Smile to life”,”Anything crazy”],
 > - **Technologies**: ["C","C#","Javascript","MySQL","Python","Java","HTML","CSS","Unity","Php","Git","Visual Studio","Cisco CCNP","AWS","Nginx","Apache","Linux","Windows"] 
 
-## FULLSTACK DEVELOPER
+## FULLSTACK DEVELOPER
+
 
 
 
